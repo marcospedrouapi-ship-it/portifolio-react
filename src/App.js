@@ -13,7 +13,7 @@ export default function App() {
         <section id="sobre">
           <h2>Sobre Mim</h2>
           {/* Coloque o link da foto da Lilena aqui se tiver */}
-          <img src="/foto.jpeg" alt="Foto de Lilena" className="foto" />
+          <img src="/foto.png.jpeg" alt="Foto de Lilena" className="foto" />
           <p>Sou estudante de Sistemas para Internet (UAPI) e foco em soluções digitais.</p>
         </section>
       
