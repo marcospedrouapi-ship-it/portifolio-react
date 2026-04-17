@@ -12,9 +12,10 @@ export default function App() {
       <main>
         <section id="sobre">
           <h2>Sobre Mim</h2>
-          {/* Coloque o link da foto da Lilena aqui se tiver */}
+          {}
           <img src="/foto.png.jpeg" alt="Foto de Lilena" className="foto" />
-          <p>Sou estudante de Sistemas para Internet (UAPI) e foco em soluções digitais.</p>
+          <p>Sou estudante de Sistemas para Internet (UAPI) com interesse no desenvolvimento de soluções digitais modernas e funcionais,
+Buscando sempre aplicar boas práticas de programação para criar sistemas eficientes, intuitivos e que gerem impacto positivo.</p>
         </section>
       
 

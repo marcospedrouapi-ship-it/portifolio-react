@@ -2,9 +2,9 @@ import React from "react";
 
 export default function Projetos() {
   const listaProjetos = [
-    { id: 1, nome: "Projeto 01 - SGET", desc: "Gestão de escalas com foco em UML." },
-    { id: 2, nome: "Projeto 02 - Registro de Escala", desc: "Sistema para organização de turnos." },
-    { id: 3, nome: "Projeto 03 - Registro de Ponto", desc: "Controle de entrada e saída." }
+    { id: 1, nome: "Projeto 01 - AGROCONECTA: Plataforma Principal", desc: "Desenvolvimento de uma plataforma digital para integração entre produtores rurais, tecnologias e oportunidades de mercado." },
+    { id: 2, nome: "Projeto 02 - AGROCONECTA: Rede Colaborativa", desc: "Sistema para compartilhamento de conhecimento, experiências e criação de parcerias estratégicas no campo." },
+    { id: 3, nome: "Projeto 03 - AGROCONECTA: Sustentabilidade e Inovação", desc: "Projeto focado em promover práticas sustentáveis e aumento da produtividade no agronegócio." }
   ];
 
   return (
